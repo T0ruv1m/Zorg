@@ -1,1 +1,2 @@
-printf("ooh")
+print("ooh")
+# É assim ó!

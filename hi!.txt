@@ -3,6 +3,10 @@ hi!
 gozaimasu
 あおいう
 
+<<<<<<< HEAD
 Linha do tempo alternativa ativar
 
 984102416 < Vanessa 
+=======
+Linha do tempo alternativa ativar
+>>>>>>> f42747f4b97fe724f393e9269778a10dad1addc7

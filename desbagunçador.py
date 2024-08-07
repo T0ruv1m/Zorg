@@ -1,6 +1,10 @@
 import os
 import shutil
 
+print(__name__)
+print("prova de que isso veio daqui")
+
+'''
 def find_xml_files(base_folder):
     """Recursively find all XML files in the base folder."""
     xml_files = {}
@@ -44,3 +48,5 @@ if __name__ == "__main__":
     main()
 
 ### teste
+
+'''

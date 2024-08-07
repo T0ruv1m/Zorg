@@ -4,6 +4,11 @@ import shutil
 print(__name__)
 print("prova de que isso veio daqui")
 
+def comprovando_quem_esta_certo():
+    print("quem está certo seria? quem escreve certo")
+
+#comprovando_quem_esta_certo()
+
 '''
 def find_xml_files(base_folder):
     """Recursively find all XML files in the base folder."""
